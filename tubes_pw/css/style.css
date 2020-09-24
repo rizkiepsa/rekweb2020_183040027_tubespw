@@ -1,0 +1,71 @@
+.slider  h3 ,
+.slider h5,
+.clients h3 {
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5)
+}
+
+.parallax-container {
+	height: 20%;
+}
+
+.parallax img {
+	filter: grayscale(1);
+	opacity: 0.5 !important;
+}
+
+.clients img {
+	max-width: 150px;
+	filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.8));
+}
+
+
+
+
+.section-search input{
+	padding: 5px !important;
+	font-size: 18px !important;
+	width: 90% !important;
+	border: wheat 3px solid !important;
+}
+
+
+.konten {
+	width: 100px;
+	height: 300px;
+	display: inline-block;
+	margin-top: 50px;
+}
+
+.gambar {
+width: 100px;
+margin: 0px;
+padding: 0px;
+height: 150px;
+border: solid black 1px;
+text-align: center;
+overflow: hidden;
+background-color: blanchedalmond;
+}
+
+
+.judul {
+	margin-top: 0px;
+	width: 100px;
+	height: 80px;
+	overflow: hidden;
+
+}
+
+
+.info {
+	margin-top: 10px;
+	width: 100px;
+	height: 100px;
+	overflow: hidden;
+}
+
+
+.search {
+	margin: 0px;
+	height: 100px;
+}
